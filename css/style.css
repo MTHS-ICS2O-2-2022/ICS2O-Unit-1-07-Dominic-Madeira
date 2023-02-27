@@ -16,9 +16,9 @@
 }
 
 .mdl-layout__content {
-  padding-left: 15pt;
-  padding-right: 15pt;
-  padding-top: 15pt;
+  padding-left: 20pt;
+  padding-right: 20pt;
+  padding-top: 20pt;
 }
 
 .mdl-textfield__error {
@@ -28,7 +28,7 @@
 .page-content {
   color: #f0f;
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 1.25rem;
+  font-size: 1.5rem;
 }
 
 body {
